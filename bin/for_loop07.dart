@@ -20,5 +20,5 @@ Return:
 }
 
 void main() {
-  print(func([6,2,8,6,2,7], 2, 4));
+  print(func([5,6,7,8], 0, 3));
 }
